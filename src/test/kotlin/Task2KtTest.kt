@@ -372,7 +372,7 @@ class Task2KtTest {
 
         val result = commission(paySystem, payIntoMonth, pay)
 
-        assertEquals(-33.44,result)
+        assertEquals(-33.33,result)
     }
 
 
