@@ -1,6 +1,6 @@
 fun main() {
 
-    val result = commission("Maestro", pay=80000)
+    val result = commission( pay=200)
 
     if (result != -33.33)
         println("Ваша комиссия за перевод: $result")
